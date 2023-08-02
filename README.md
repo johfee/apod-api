@@ -1,5 +1,5 @@
 # apod-api
-A JavaScript port of [nasa/apod-api](https://github.com/nasa/apod-api) made for Deno.
+A TypeScript port of [nasa/apod-api](https://github.com/nasa/apod-api) made for Deno.
 
 ## Quick Start
 
